@@ -1,1 +1,4 @@
 # Sparks-Task2
+Predection using Unsupervised Machine Learning
+Statement:-From the given ‘Iris’ dataset, predict the optimum number of clusters
+and represent it visually.
